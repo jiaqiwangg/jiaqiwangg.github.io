@@ -1,0 +1,12 @@
+.custom-primary-color{
+	color:white;
+	background-color: lightgrey;
+}
+
+.custom-primary-color:hover{
+	color:pink;
+}
+
+.google-font-1{
+	font-family: 'Vidaloka', serif;
+}
